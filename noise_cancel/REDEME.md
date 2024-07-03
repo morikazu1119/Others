@@ -9,5 +9,7 @@
 
 ### 利用方法
 noise_cancel.ipynbには、ノイズキャンセルのプログラムがあります。
+
 wav形式のファイルはダウンロードを行うと、実際の音を確認できます。
+
 noise_cancel.zipでは、noise_cancelないのすべてのデータをzip形式でダウンロードできます。
