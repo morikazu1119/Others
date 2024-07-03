@@ -12,7 +12,7 @@ noise_cancel.ipynbには、ノイズキャンセルのプログラムがあり�
 
 wav形式のファイルはダウンロードを行うと、実際の音を確認できます。
 
-noise_cancel.zipでは、noise_cancelないのすべてのデータをzip形式でダウンロードできます。
+noise_cancel.zipでは、noise_cancel内のすべてのデータをzip形式でダウンロードできます。
 
 ダウンロードの際には、画像の赤丸部分をクリックすると、現在閲覧しているファイルをダウンロードできます。
 ![image](https://github.com/morikazu1119/Others/assets/132887645/738cc232-dc82-4bf5-85c6-ea5907371ef1)
